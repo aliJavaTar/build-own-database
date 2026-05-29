@@ -4,20 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e273d647-f7ea-4239-af4e-2f5777dfc97f" name="Changes" comment="start project">
-      <change afterPath="$PROJECT_DIR$/build_our_database/src/main/java/com/own/first/AtomicFilePersistence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build_our_database/src/main/java/com/own/first/BadFilePersistence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/build_our_database/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/betterCommentsSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build_our_database/.idea/betterCommentsSettings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/build-own-database.iml" beforeDir="false" afterPath="$PROJECT_DIR$/build_our_database/.idea/build-own-database.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build_our_database/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build_our_database/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build_our_database/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build_our_database/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build_our_database/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build_our_database/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build_our_database/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build_our_database/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build_our_database/src/main/java/com/ali/Main.java" beforeDir="false" />
+    <list default="true" id="e273d647-f7ea-4239-af4e-2f5777dfc97f" name="Changes" comment="add two version of file">
+      <change afterPath="$PROJECT_DIR$/build_our_database/src/main/java/com/own/first/DiskPersistence.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +91,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1780042125556</updated>
-      <workItem from="1780042126757" duration="1718000" />
+      <workItem from="1780042126757" duration="2921000" />
     </task>
     <task id="LOCAL-00001" summary="start project">
       <option name="closed" value="true" />
@@ -113,7 +101,15 @@
       <option name="project" value="LOCAL" />
       <updated>1780042295814</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add two version of file">
+      <option name="closed" value="true" />
+      <created>1780043884641</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1780043884641</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,6 +117,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start project" />
-    <option name="LAST_COMMIT_MESSAGE" value="start project" />
+    <MESSAGE value="add two version of file" />
+    <option name="LAST_COMMIT_MESSAGE" value="add two version of file" />
   </component>
 </project>

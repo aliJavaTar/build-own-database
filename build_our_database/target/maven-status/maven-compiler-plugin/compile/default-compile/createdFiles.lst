@@ -1,0 +1,3 @@
+com/own/first/BadFilePersistence.class
+com/own/first/DiskPersistence.class
+AtomicFilePersistence.class

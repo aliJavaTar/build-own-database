@@ -17,16 +17,13 @@ public class AppendLog {
     }
 
     public void appendLog(FileChannel channel, String line) throws IOException {
-        try {
+        try (channel) {
             String record = line + "\n";
             byte[] bytes = record.getBytes(StandardCharsets.UTF_8);
             channel.write(ByteBuffer.wrap(bytes));
             channel.force(true);
-
-        } catch (Exception e) {
+        } catch (IOException e) {
             System.out.print(e.getMessage());
-        } finally {
-            channel.close();
         }
     }
 }
